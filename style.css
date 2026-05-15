@@ -48,7 +48,7 @@ nav a:hover {
 /* home-page------------------- */
 .hero {
     height: 60vh;
-    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('./img/home.jpg');
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('home.jpg');
     background-size: cover;
     display: flex;
     flex-direction: column;
